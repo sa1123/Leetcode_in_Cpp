@@ -16,7 +16,6 @@ public:
                 end--;
                 continue;
             }
-            cout<<s[start]<<tolower(s[start])<<" "<<s[end]<<tolower(s[end])<<endl;
             if(tolower(s[start++]) != tolower(s[end--])){
                 return false;
             }
