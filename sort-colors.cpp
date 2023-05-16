@@ -26,3 +26,13 @@ public:
         }
     }
 };
+
+
+//https://leetcode.com/problems/sort-colors/submissions/951385362/
+
+class Solution {
+public:
+    void sortColors(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+    }
+};
