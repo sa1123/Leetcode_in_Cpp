@@ -21,3 +21,5 @@ https://leetcode.com/problems/move-zeroes/submissions/950878794/
 https://leetcode.com/problems/missing-number/submissions/950903655/
 
 https://leetcode.com/problems/max-consecutive-ones/submissions/951237162/
+
+https://leetcode.com/problems/single-number/submissions/951266934/
