@@ -1,4 +1,3 @@
 /.vscode
 temp.cpp
-*.exe 
-/sorting_algos
+*.exe

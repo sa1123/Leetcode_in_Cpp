@@ -37,3 +37,6 @@
 18. https://leetcode.com/problems/middle-of-the-linked-list/submissions/951970476/
 
 19. https://leetcode.com/problems/linked-list-cycle/submissions/951984419/
+
+20. https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/952006999/
+
