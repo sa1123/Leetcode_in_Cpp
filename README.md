@@ -35,3 +35,5 @@
 17. https://leetcode.com/problems/reverse-linked-list/submissions/951981722/
 
 18. https://leetcode.com/problems/middle-of-the-linked-list/submissions/951970476/
+
+19. https://leetcode.com/problems/linked-list-cycle/submissions/951984419/
