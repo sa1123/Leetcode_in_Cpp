@@ -1,4 +1,4 @@
-# Leetcode_in_Cpp
+# Leetcode in C++
 
 1. https://leetcode.com/problems/valid-parentheses/submissions/921296960/
 
