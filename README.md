@@ -31,3 +31,7 @@
 15. https://leetcode.com/problems/majority-element/submissions/951434177/
 
 16. https://leetcode.com/problems/largest-odd-number-in-string/submissions/951594709/
+
+17. https://leetcode.com/problems/reverse-linked-list/submissions/951981722/
+
+18. https://leetcode.com/problems/middle-of-the-linked-list/submissions/951970476/
