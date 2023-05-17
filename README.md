@@ -40,3 +40,5 @@
 
 20. https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/952006999/
 
+21. https://leetcode.com/problems/palindrome-linked-list/submissions/952008936/
+

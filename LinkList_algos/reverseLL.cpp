@@ -7,7 +7,5 @@ struct ListNode* reverseLL(struct ListNode* start){
         prev = curr;
         curr = temp;
     }
-    // printLL(prev);
-
     return prev;
 }
