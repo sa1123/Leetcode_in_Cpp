@@ -42,3 +42,4 @@
 
 21. https://leetcode.com/problems/palindrome-linked-list/submissions/952008936/
 
+22. https://leetcode.com/problems/binary-search/submissions/952564341/
