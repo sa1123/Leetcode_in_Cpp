@@ -46,3 +46,5 @@
 
 23. https://leetcode.com/problems/search-insert-position/submissions/952566248/
 
+24. https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/952632989/
+
