@@ -16,7 +16,7 @@
 
 8. https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/950689747/
 
-9. https://leetcode.com/problems/move-zeroes/submissions/950878794/
+9. https://leetcode.com/problems/move-zeroes/submissions/950878794/    https://leetcode.com/problems/move-zeroes/submissions/950888681/
 
 10. https://leetcode.com/problems/missing-number/submissions/950903655/
 
@@ -26,7 +26,7 @@
 
 13. https://leetcode.com/problems/two-sum/submissions/951367067/
 
-14. https://leetcode.com/problems/sort-colors/submissions/951384090/
+14. https://leetcode.com/problems/sort-colors/submissions/951384090/    https://leetcode.com/problems/sort-colors/submissions/951385362/
 
 15. https://leetcode.com/problems/majority-element/submissions/951434177/
 
@@ -47,4 +47,6 @@
 23. https://leetcode.com/problems/search-insert-position/submissions/952566248/
 
 24. https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/952632989/
+
+25. https://leetcode.com/problems/power-of-two/submissions/953142076/
 
