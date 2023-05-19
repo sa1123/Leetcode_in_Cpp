@@ -48,5 +48,7 @@
 
 24. https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/952632989/
 
-25. https://leetcode.com/problems/power-of-two/submissions/953142076/
+25. https://leetcode.com/problems/power-of-two/submissions/953142076/    https://leetcode.com/problems/power-of-two/submissions/953144696/
+
+26. https://leetcode.com/problems/powx-n/submissions/953245702/
 
