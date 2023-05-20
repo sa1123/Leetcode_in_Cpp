@@ -54,3 +54,5 @@
 
 27. https://leetcode.com/problems/linked-list-cycle-ii/submissions/953932132/
 
+28. https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/953959953/
+
