@@ -56,3 +56,5 @@
 
 28. https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/953959953/
 
+29. https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/953969472/
+

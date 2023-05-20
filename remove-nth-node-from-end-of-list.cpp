@@ -19,9 +19,6 @@ public:
             count++;
             node = node->next;
         }
-        if(count == 1 && n == 1){
-            return NULL;
-        }
         if(count == n){
             return head->next;
         }
