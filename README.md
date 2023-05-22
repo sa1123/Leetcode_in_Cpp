@@ -58,3 +58,5 @@
 
 29. https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/953969472/
 
+30. https://leetcode.com/problems/valid-parentheses/description/
+
