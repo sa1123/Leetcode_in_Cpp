@@ -65,3 +65,5 @@
 32. https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/955721954/
 
 33. https://leetcode.com/problems/add-binary/submissions/955760869/
+
+34. https://leetcode.com/problems/add-to-array-form-of-integer/submissions/955787664/
