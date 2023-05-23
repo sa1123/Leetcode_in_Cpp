@@ -73,3 +73,5 @@
 36. https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/955813260/
 
 37. https://leetcode.com/problems/number-of-1-bits/submissions/955827581/
+
+38. https://leetcode.com/problems/counting-bits/submissions/955832138/
