@@ -69,3 +69,5 @@
 34. https://leetcode.com/problems/add-to-array-form-of-integer/submissions/955787664/
 
 35. https://leetcode.com/problems/add-strings/submissions/955799985/
+
+36. https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/955813260/
