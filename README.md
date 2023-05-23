@@ -59,3 +59,5 @@
 29. https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/953969472/
 
 30. https://leetcode.com/problems/plus-one/submissions/955606612/
+
+31. https://leetcode.com/problems/length-of-last-word/submissions/955615098/
