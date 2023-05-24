@@ -77,3 +77,5 @@
 38. https://leetcode.com/problems/counting-bits/submissions/955832138/
 
 39. https://leetcode.com/problems/reverse-words-in-a-string/submissions/956246494/
+
+40. https://leetcode.com/problems/valid-anagram/submissions/956392126/
