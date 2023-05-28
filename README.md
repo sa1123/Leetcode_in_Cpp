@@ -81,3 +81,5 @@
 40. https://leetcode.com/problems/valid-anagram/submissions/956392126/
 
 41. https://leetcode.com/problems/contains-duplicate/submissions/958759521/
+
+42. https://leetcode.com/problems/happy-number/submissions/958819940/
