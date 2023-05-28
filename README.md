@@ -79,3 +79,5 @@
 39. https://leetcode.com/problems/reverse-words-in-a-string/submissions/956246494/
 
 40. https://leetcode.com/problems/valid-anagram/submissions/956392126/
+
+41. https://leetcode.com/problems/contains-duplicate/submissions/958759521/
