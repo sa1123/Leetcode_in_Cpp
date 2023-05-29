@@ -83,3 +83,5 @@
 41. https://leetcode.com/problems/contains-duplicate/submissions/958759521/
 
 42. https://leetcode.com/problems/happy-number/submissions/958819940/
+
+43. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/959638844/
