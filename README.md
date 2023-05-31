@@ -91,3 +91,5 @@
 45. https://leetcode.com/problems/rotate-array/submissions/960729693/
 
 46. https://leetcode.com/problems/search-a-2d-matrix/submissions/960740875/
+
+47. https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/960860752/
