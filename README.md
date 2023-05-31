@@ -89,3 +89,5 @@
 44. https://leetcode.com/problems/find-peak-element/submissions/959658564/
 
 45. https://leetcode.com/problems/rotate-array/submissions/960729693/
+
+46. https://leetcode.com/problems/search-a-2d-matrix/submissions/960740875/
