@@ -97,3 +97,5 @@
 48. https://leetcode.com/problems/spiral-matrix/submissions/960914444/
 
 49. https://leetcode.com/problems/add-digits/submissions/961776286/
+
+50. https://leetcode.com/problems/ugly-number/submissions/961838224/
