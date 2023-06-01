@@ -95,3 +95,5 @@
 47. https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/960860752/
 
 48. https://leetcode.com/problems/spiral-matrix/submissions/960914444/
+
+49. https://leetcode.com/problems/add-digits/submissions/961776286/
