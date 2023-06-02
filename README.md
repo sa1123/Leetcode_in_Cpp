@@ -105,3 +105,5 @@
 52. https://leetcode.com/problems/reverse-string/submissions/961901057/
 
 53. https://leetcode.com/problems/power-of-four/submissions/961908240/
+
+54. https://leetcode.com/problems/power-of-three/submissions/962126520/
