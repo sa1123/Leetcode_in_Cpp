@@ -107,3 +107,5 @@
 53. https://leetcode.com/problems/power-of-four/submissions/961908240/
 
 54. https://leetcode.com/problems/power-of-three/submissions/962126520/
+
+55. https://leetcode.com/problems/first-bad-version/submissions/963469576/
