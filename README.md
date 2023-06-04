@@ -109,3 +109,5 @@
 54. https://leetcode.com/problems/power-of-three/submissions/962126520/
 
 55. https://leetcode.com/problems/first-bad-version/submissions/963469576/
+
+56. https://leetcode.com/problems/valid-perfect-square/submissions/963474432/
