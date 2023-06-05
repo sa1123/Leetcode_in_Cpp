@@ -115,3 +115,5 @@
 57. https://leetcode.com/problems/find-the-difference/submissions/963477855/
 
 58. https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/964148514/
+
+59. https://leetcode.com/problems/prime-in-diagonal/submissions/964160392/
