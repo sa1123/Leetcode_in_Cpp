@@ -113,3 +113,5 @@
 56. https://leetcode.com/problems/valid-perfect-square/submissions/963474432/
 
 57. https://leetcode.com/problems/find-the-difference/submissions/963477855/
+
+58. https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/964148514/
