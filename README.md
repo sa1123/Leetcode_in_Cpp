@@ -6,7 +6,7 @@
 
 3. https://leetcode.com/problems/build-array-from-permutation/submissions/922431355/
 
-4. https://leetcode.com/problems/merge-two-sorted-lists
+4. https://leetcode.com/problems/merge-two-sorted-lists/submissions/927677205/
 
 5. https://leetcode.com/problems/reverse-integer/submissions/948284040/
 
@@ -117,3 +117,5 @@
 58. https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/964148514/
 
 59. https://leetcode.com/problems/prime-in-diagonal/submissions/964160392/
+
+60. https://leetcode.com/problems/fizz-buzz/submissions/964665817/
