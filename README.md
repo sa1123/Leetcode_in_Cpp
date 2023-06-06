@@ -121,3 +121,5 @@
 60. https://leetcode.com/problems/fizz-buzz/submissions/964665817/
 
 61. https://leetcode.com/problems/same-tree/submissions/964891291/
+
+62. https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/964907117/
