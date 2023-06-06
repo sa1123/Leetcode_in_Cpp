@@ -129,3 +129,5 @@
 64. https://leetcode.com/problems/univalued-binary-tree/submissions/965085777/
 
 65. https://leetcode.com/problems/range-sum-of-bst/submissions/965390439/
+
+66. https://leetcode.com/problems/count-the-digits-that-divide-a-number/submissions/965418398/
