@@ -127,3 +127,5 @@
 63. https://leetcode.com/problems/squares-of-a-sorted-array/submissions/965081329/
 
 64. https://leetcode.com/problems/univalued-binary-tree/submissions/965085777/
+
+65. https://leetcode.com/problems/range-sum-of-bst/submissions/965390439/
