@@ -123,3 +123,5 @@
 61. https://leetcode.com/problems/same-tree/submissions/964891291/
 
 62. https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/964907117/
+
+63. https://leetcode.com/problems/squares-of-a-sorted-array/submissions/965081329/
