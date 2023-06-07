@@ -133,3 +133,5 @@
 66. https://leetcode.com/problems/count-the-digits-that-divide-a-number/submissions/965418398/
 
 67. https://leetcode.com/problems/perfect-number/submissions/966139539/
+
+68. https://leetcode.com/problems/self-dividing-numbers/submissions/966144245/
