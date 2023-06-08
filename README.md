@@ -143,3 +143,5 @@
 71. https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/966478029/
 
 72. https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/submissions/966557709/
+
+73. https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/submissions/966579166/
