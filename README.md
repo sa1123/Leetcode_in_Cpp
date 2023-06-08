@@ -137,3 +137,5 @@
 68. https://leetcode.com/problems/self-dividing-numbers/submissions/966144245/
 
 69. https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/966474479/
+
+70. https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/966476307/
