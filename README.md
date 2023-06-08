@@ -139,3 +139,5 @@
 69. https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/966474479/
 
 70. https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/966476307/
+
+71. https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/966478029/
