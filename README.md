@@ -135,3 +135,5 @@
 67. https://leetcode.com/problems/perfect-number/submissions/966139539/
 
 68. https://leetcode.com/problems/self-dividing-numbers/submissions/966144245/
+
+69. https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/966474479/
