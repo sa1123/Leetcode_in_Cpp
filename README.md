@@ -145,3 +145,5 @@
 72. https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/submissions/966557709/
 
 73. https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/submissions/966579166/
+
+74. https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/967182945/
