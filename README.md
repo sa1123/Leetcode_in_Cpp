@@ -157,3 +157,5 @@
 78. https://leetcode.com/problems/rotate-image/submissions/969365212/
 
 79. https://leetcode.com/problems/maximum-subarray/submissions/969432701/
+
+80. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/969566199/
