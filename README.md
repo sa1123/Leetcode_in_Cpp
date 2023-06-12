@@ -151,3 +151,5 @@
 75. https://leetcode.com/problems/validate-binary-search-tree/submissions/967824561/
 
 76. https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/969323775/
+
+77. https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/969331916/
