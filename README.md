@@ -162,4 +162,6 @@
 
 81. https://leetcode.com/problems/subarray-sum-equals-k/submissions/970264270/
 
-82. https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/970273832/
+82. https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/970278263/
+
+83. https://leetcode.com/problems/longest-consecutive-sequence/submissions/970895267/

@@ -1,11 +1,10 @@
-//https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/970273832/
+//https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/970278263/
 
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
         vector<int> pos;
         vector<int> neg;
-        vector<int> ans;
         for(int i=0; i<nums.size(); i++){
             if(nums[i] < 0){
                 neg.push_back(nums[i]);
@@ -13,10 +12,10 @@ public:
                 pos.push_back(nums[i]);
             }
         }
-        for(int i=0; i<pos.size(); i++){
-            ans.push_back(pos[i]);
-            ans.push_back(neg[i]);
+        for(int i=0, j=0; i<nums.size(); i+=2, j++){
+            nums[i] = pos[j];
+            nums[i+1] = neg[j];
         }
-        return ans;
+        return nums;
     }
 };
