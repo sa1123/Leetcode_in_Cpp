@@ -167,3 +167,5 @@
 83. https://leetcode.com/problems/longest-consecutive-sequence/submissions/970895267/
 
 84. https://leetcode.com/problems/climbing-stairs/submissions/970920823/
+
+85. https://leetcode.com/problems/pascals-triangle/submissions/970940110/
