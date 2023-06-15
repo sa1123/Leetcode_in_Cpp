@@ -169,3 +169,5 @@
 84. https://leetcode.com/problems/climbing-stairs/submissions/970920823/
 
 85. https://leetcode.com/problems/pascals-triangle/submissions/970940110/
+
+86. https://leetcode.com/problems/majority-element-ii/submissions/971614730/
