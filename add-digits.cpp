@@ -3,7 +3,6 @@
 class Solution {
 public:
     int addDigits(int num) {
-        // cout<<num<<endl;
         if(num < 10){
             return num;
         }else{
