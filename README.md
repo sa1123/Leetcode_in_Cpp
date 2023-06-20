@@ -185,3 +185,5 @@
 92. https://leetcode.com/problems/implement-stack-using-queues/submissions/974638338/
 
 93. https://leetcode.com/problems/implement-queue-using-stacks/submissions/974681029/
+
+94. https://leetcode.com/problems/min-stack/submissions/975333008/
