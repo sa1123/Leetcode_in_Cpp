@@ -187,3 +187,5 @@
 93. https://leetcode.com/problems/implement-queue-using-stacks/submissions/974681029/
 
 94. https://leetcode.com/problems/min-stack/submissions/975333008/
+
+95. https://leetcode.com/problems/binary-tree-right-side-view/submissions/975501490/
