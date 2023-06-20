@@ -189,3 +189,5 @@
 94. https://leetcode.com/problems/min-stack/submissions/975333008/
 
 95. https://leetcode.com/problems/binary-tree-right-side-view/submissions/975501490/
+
+96. https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/975507766/
