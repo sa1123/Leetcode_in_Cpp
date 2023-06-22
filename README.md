@@ -195,3 +195,5 @@
 97. https://leetcode.com/problems/lemonade-change/submissions/976271606/
 
 98. https://leetcode.com/problems/search-in-rotated-sorted-array-ii/submissions/977033076/
+
+99. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/977036114/
