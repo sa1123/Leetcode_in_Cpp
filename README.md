@@ -28,7 +28,7 @@
 
 14. https://leetcode.com/problems/sort-colors/submissions/951384090/    https://leetcode.com/problems/sort-colors/submissions/951385362/
 
-15. https://leetcode.com/problems/majority-element/submissions/951434177/
+15. https://leetcode.com/problems/majority-element/submissions/951434177/  https://leetcode.com/problems/majority-element/submissions/1256876284/
 
 16. https://leetcode.com/problems/largest-odd-number-in-string/submissions/951594709/
 
