@@ -14,7 +14,7 @@
 
 7. https://leetcode.com/problems/fibonacci-number/submissions/948539366/
 
-8. https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/950689747/
+8. https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1257511433/   https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1257506417/
 
 9. https://leetcode.com/problems/move-zeroes/submissions/950878794/    https://leetcode.com/problems/move-zeroes/submissions/950888681/
 
