@@ -205,3 +205,5 @@
 102. https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/1257037433/
 
 103. https://leetcode.com/problems/defanging-an-ip-address/submissions/1258660888/
+
+104. https://leetcode.com/problems/convert-the-temperature/submissions/1258656385/
