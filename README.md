@@ -211,3 +211,5 @@
 105. https://leetcode.com/problems/rotate-string/submissions/1258760369/
 
 106. https://leetcode.com/problems/remove-outermost-parentheses/submissions/1259541379/
+
+107. https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/submissions/1259752671/
