@@ -209,3 +209,5 @@
 104. https://leetcode.com/problems/convert-the-temperature/submissions/1258656385/
 
 105. https://leetcode.com/problems/rotate-string/submissions/1258760369/
+
+106. https://leetcode.com/problems/remove-outermost-parentheses/submissions/1259541379/
