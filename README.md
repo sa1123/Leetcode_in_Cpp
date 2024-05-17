@@ -221,3 +221,6 @@
 110. https://leetcode.com/problems/sort-list/submissions/1260321743/
 
 111. https://leetcode.com/problems/add-two-numbers/submissions/1260437476/
+
+112. https://leetcode.com/problems/rotate-list/submissions/1260472462/
+
