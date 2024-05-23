@@ -50,7 +50,7 @@
 
 25. https://leetcode.com/problems/power-of-two/submissions/962120535/
 
-26. https://leetcode.com/problems/powx-n/submissions/953245702/
+26. https://leetcode.com/problems/powx-n/submissions/953245702/  https://leetcode.com/problems/powx-n/submissions/1265633053/
 
 27. https://leetcode.com/problems/linked-list-cycle-ii/submissions/953932132/
 
