@@ -226,3 +226,4 @@
 
 113. https://leetcode.com/problems/valid-parenthesis-string/submissions/1267154568/
 
+114. https://leetcode.com/problems/special-array-i/submissions/1267251293/
