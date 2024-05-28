@@ -227,3 +227,6 @@
 113. https://leetcode.com/problems/valid-parenthesis-string/submissions/1267154568/
 
 114. https://leetcode.com/problems/special-array-i/submissions/1267251293/
+
+115. https://leetcode.com/problems/find-the-integer-added-to-array-i/submissions/1269280777/
+
