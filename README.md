@@ -239,3 +239,5 @@
 119. https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/submissions/1357464351/
 
 120. https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/submissions/1357487522/
+
+121. https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/submissions/1357495642/
