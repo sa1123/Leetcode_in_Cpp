@@ -235,3 +235,5 @@
 117. https://leetcode.com/problems/find-if-digit-game-can-be-won/submissions/1357385183/
 
 118. https://leetcode.com/problems/snake-in-matrix/submissions/1357411641/
+
+119. https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/submissions/1357464351/
