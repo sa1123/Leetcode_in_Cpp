@@ -247,8 +247,5 @@ leetcode.com/subastral
 120. https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/submissions/1357487522/
 
 121. https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/submissions/1357495642/
-<<<<<<< HEAD
 
 122. https://leetcode.com/problems/convert-date-to-binary/submissions/1415030932/
-=======
->>>>>>> bca6ab59c42b9c3e30aa2ddb57908961382b7fb0
