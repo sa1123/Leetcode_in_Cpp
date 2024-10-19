@@ -249,3 +249,5 @@ leetcode.com/subastral
 121. https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/submissions/1357495642/
 
 122. https://leetcode.com/problems/convert-date-to-binary/submissions/1415030932/
+
+123. https://leetcode.com/problems/find-indices-of-stable-mountains/submissions/1427534521/
