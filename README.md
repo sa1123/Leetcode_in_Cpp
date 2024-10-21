@@ -251,3 +251,5 @@ leetcode.com/subastral
 122. https://leetcode.com/problems/convert-date-to-binary/submissions/1415030932/
 
 123. https://leetcode.com/problems/find-indices-of-stable-mountains/submissions/1427534521/
+
+124. https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/submissions/1429080303/
