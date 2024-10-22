@@ -1,10 +1,10 @@
-// https://leetcode.com/problems/find-the-key-of-the-numbers/submissions/1430211456/
+// https://leetcode.com/problems/find-the-key-of-the-numbers/submissions/1430212571/
 
 class Solution {
 public:
 
     string padder(string str){
-         while(str.size() < 4){
+        while(str.size() < 4){
             str.insert(str.begin(), 48);
         }
         return str;
@@ -18,7 +18,7 @@ public:
         int ans = 0;
 
         for(int i = 0; i<4; i++){
-            ans = ans + min(int(n1[i]-48), min(int(n2[i]-48), int(n3[i]-48))) * int(pow(10,3-i));
+            ans += min(int(n1[i]-48), min(int(n2[i]-48), int(n3[i]-48))) * int(pow(10,3-i));
         }
 
         return ans;
