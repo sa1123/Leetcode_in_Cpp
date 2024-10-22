@@ -254,4 +254,4 @@ leetcode.com/subastral
 
 124. https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/submissions/1429080303/
 
-125. https://leetcode.com/problems/find-the-key-of-the-numbers/submissions/1430202505/
+125. https://leetcode.com/problems/find-the-key-of-the-numbers/submissions/1430211456/
