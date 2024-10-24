@@ -259,3 +259,5 @@ leetcode.com/subastral
 126. https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/submissions/1430241579/
 
 127. https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/submissions/1432420633/
+
+128. https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/submissions/1432427424/
