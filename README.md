@@ -257,3 +257,5 @@ leetcode.com/subastral
 125. https://leetcode.com/problems/find-the-key-of-the-numbers/submissions/1430212571/
 
 126. https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/submissions/1430241579/
+
+127. https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/submissions/1432420633/
