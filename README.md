@@ -261,3 +261,5 @@ leetcode.com/subastral
 127. https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/submissions/1432420633/
 
 128. https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/submissions/1432427424/
+
+129. https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/submissions/1433172401/
