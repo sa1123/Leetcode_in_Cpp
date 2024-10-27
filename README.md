@@ -265,3 +265,5 @@ leetcode.com/subastral
 129. https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/submissions/1433172401/
 
 130. https://leetcode.com/problems/find-the-maximum-achievable-number/submissions/1435032351/
+
+131. https://leetcode.com/problems/final-value-of-variable-after-performing-operations/submissions/1435037556/
