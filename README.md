@@ -267,3 +267,5 @@ leetcode.com/subastral
 130. https://leetcode.com/problems/find-the-maximum-achievable-number/submissions/1435032351/
 
 131. https://leetcode.com/problems/final-value-of-variable-after-performing-operations/submissions/1435037556/
+
+132. https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/submissions/1435042075/
