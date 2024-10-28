@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/1435122780/
+// https://leetcode.com/problems/merge-nodes-in-between-zeros/submissions/1436181984/
 
 /**
  * Definition for singly-linked list.
@@ -23,18 +23,16 @@ public:
                 ptr1 = ptr1->next;
             }
 
+            if(ptr1->next == NULL){
+                ptr2->next = NULL;
+                return head;
+            }
+
             ptr2->next = ptr1;
             ptr2 = ptr1;
             ptr1 = ptr1->next;
         }
-
-        ptr1 = head;
-        while(ptr1->next->next != NULL){
-            ptr1 = ptr1->next;
-        }
-
-        ptr1->next = NULL;
-
+        
         return head;
     }
 };
