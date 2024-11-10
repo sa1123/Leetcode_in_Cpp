@@ -288,3 +288,4 @@ leetcode.com/subastral
 
 141. https://leetcode.com/problems/sum-multiples/submissions/1448552812/
 
+142. https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/submissions/1448555182/
