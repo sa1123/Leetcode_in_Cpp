@@ -282,3 +282,5 @@ leetcode.com/subastral
 
 138. https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/submissions/1448439130/
 
+139. https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/submissions/1448455859/
+
