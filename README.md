@@ -284,3 +284,5 @@ leetcode.com/subastral
 
 139. https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/submissions/1448455859/
 
+140. https://leetcode.com/problems/reverse-prefix-of-word/submissions/1448548656/
+
