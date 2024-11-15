@@ -296,3 +296,5 @@ leetcode.com/subastral
 
 145. https://leetcode.com/problems/harshad-number/submissions/1453331776/
 
+146. https://leetcode.com/problems/maximum-69-number/submissions/1453335129/
+
