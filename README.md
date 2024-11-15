@@ -294,3 +294,5 @@ leetcode.com/subastral
 
 144. https://leetcode.com/problems/maximum-product-difference-between-two-pairs/submissions/1453329140/
 
+145. https://leetcode.com/problems/harshad-number/submissions/1453331776/
+
