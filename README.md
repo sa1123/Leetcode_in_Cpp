@@ -291,3 +291,6 @@ leetcode.com/subastral
 142. https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/submissions/1448555182/
 
 143. https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/1453320825/
+
+144. https://leetcode.com/problems/maximum-product-difference-between-two-pairs/submissions/1453329140/
+
