@@ -298,3 +298,5 @@ leetcode.com/subastral
 
 146. https://leetcode.com/problems/maximum-69-number/submissions/1453335129/
 
+147. https://leetcode.com/problems/number-of-changing-keys/submissions/1456557559/
+
