@@ -303,3 +303,5 @@ leetcode.com/subastral
 148. https://leetcode.com/problems/height-checker/submissions/1457315227/
 
 149. https://leetcode.com/problems/rings-and-rods/submissions/1457333920/
+
+150. https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/submissions/1457346143/
