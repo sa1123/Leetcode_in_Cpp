@@ -12,12 +12,14 @@
  * };
  */
 class Solution {
+    //find height of each node starting from the leftside, bottom to top
 public:
     int isB(TreeNode* root){
         if(!root){
             return 0;
         }
 
+        //depth of left side, recursive until null. null makes int leftdepth = 0. +1 added per row
         int leftdepth = isB(root->left);
         if(leftdepth == -1){
             return -1;
