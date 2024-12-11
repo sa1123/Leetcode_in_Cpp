@@ -305,3 +305,5 @@ leetcode.com/subastral
 149. https://leetcode.com/problems/rings-and-rods/submissions/1457333920/
 
 150. https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/submissions/1457346143/
+
+151. https://leetcode.com/problems/balanced-binary-tree/submissions/1476388728/
