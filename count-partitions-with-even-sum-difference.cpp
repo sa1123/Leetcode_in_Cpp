@@ -3,20 +3,22 @@
 class Solution {
 public:
     int countPartitions(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>prefix(n);
-        prefix[0]=nums[0];
+        int ans = 0;
+        int leftside = nums[0];
+        int rightside = 0;
+        int partition = 1;
+        for(int i = 1; i<nums.size(); i++){
+            rightside += nums[i];
+        }
 
-        for(int i=1;i<=n-1;i++){
-            prefix[i]=prefix[i-1]+nums[i];
-        }
-        int cnt=0;
-        for(int i=0;i<=n-2;i++){
-            int lastsum=prefix[n-1]-prefix[i];
-            if(abs(prefix[i]-lastsum)%2==0){
-                cnt++;
+        while(partition < nums.size()){
+            if((leftside % 2 == 0 && rightside % 2 == 0) || (leftside % 2 != 0 && rightside % 2 != 0)){
+                ans++;
             }
+            partition++;
+            leftside+=nums[partition-1];
+            rightside-=nums[partition-1];
         }
-        return cnt;
+        return ans;
     }
 };
