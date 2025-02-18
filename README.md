@@ -313,3 +313,5 @@ leetcode.com/subastral
 153. https://leetcode.com/problems/count-partitions-with-even-sum-difference/submissions/1547319714/
 
 154. https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/submissions/1547409073/
+
+155. https://leetcode.com/problems/number-of-good-pairs/submissions/1547529538/
