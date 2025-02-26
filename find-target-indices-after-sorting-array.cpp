@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/find-target-indices-after-sorting-array/submissions/1556217038/
+// https://leetcode.com/problems/find-target-indices-after-sorting-array/submissions/1556217038
 
 class Solution {
     public:
