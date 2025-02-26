@@ -315,3 +315,5 @@ leetcode.com/subastral
 154. https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/submissions/1547409073/
 
 155. https://leetcode.com/problems/number-of-good-pairs/submissions/1547529538/
+
+156. https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/submissions/1555905844/
