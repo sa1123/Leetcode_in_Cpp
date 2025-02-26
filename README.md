@@ -317,3 +317,5 @@ leetcode.com/subastral
 155. https://leetcode.com/problems/number-of-good-pairs/submissions/1547529538/
 
 156. https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/submissions/1555905844/
+
+157. https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/submissions/1555968510/
