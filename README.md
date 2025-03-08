@@ -342,5 +342,5 @@ leetcode.com/subastral
 
 168. https://leetcode.com/problems/longest-common-prefix/submissions/1558125923/
 
-169. https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/submissions/1566921700/
+169. https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/submissions/1566927089/
 
