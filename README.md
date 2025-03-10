@@ -356,3 +356,5 @@ leetcode.com/subastral
 
 175. https://leetcode.com/problems/jewels-and-stones/submissions/1568986518/
 
+176. https://leetcode.com/problems/number-of-senior-citizens/submissions/1569002770/
+
