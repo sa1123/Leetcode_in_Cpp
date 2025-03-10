@@ -360,3 +360,5 @@ leetcode.com/subastral
 
 177. https://leetcode.com/problems/sum-of-squares-of-special-elements/submissions/1569008252/
 
+178. https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/1569017895/
+
