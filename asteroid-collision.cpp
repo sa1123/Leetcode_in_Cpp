@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/asteroid-collision/submissions/1582202924/
+// https://leetcode.com/problems/asteroid-collision/submissions/1582212238/
 
 class Solution {
     public:
@@ -11,10 +11,9 @@ class Solution {
                     if(ans.size() == 0 || ans.back() < 0){
                         ans.push_back(asteroids[i]);
                     }else{
-                        int initial_size = ans.size();
                         int temp = ans.size();
                         while(temp){
-                            if(temp < initial_size && ans.back()<0){
+                            if(ans.back()<0){
                                 ans.push_back(asteroids[i]);
                                 temp = 0;
                             }else if(asteroids[i]*-1 > ans.back()){
