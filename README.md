@@ -376,3 +376,5 @@ leetcode.com/subastral
 
 185. https://leetcode.com/problems/assign-cookies/submissions/1587828969/
 
+186. https://leetcode.com/problems/jump-game/submissions/1594310027/
+
