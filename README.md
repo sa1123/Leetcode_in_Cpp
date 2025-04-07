@@ -378,3 +378,5 @@ leetcode.com/subastral
 
 186. https://leetcode.com/problems/jump-game/submissions/1594310027/
 
+187. https://leetcode.com/problems/reverse-degree-of-a-string/submissions/1599681401/
+
