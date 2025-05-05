@@ -389,3 +389,5 @@ leetcode.com/subastral
 191. https://leetcode.com/problems/coin-change-ii/submissions/1625031601/
 
 192. https://leetcode.com/problems/unique-paths/submissions/1625554462/
+
+193. https://leetcode.com/problems/number-of-equivalent-domino-pairs/submissions/1626198207/
