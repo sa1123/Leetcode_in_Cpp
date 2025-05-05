@@ -13,7 +13,6 @@ class Solution {
                 }else{
                     arr[dominoes[i][0] + 10*dominoes[i][1]]++;
                 }
-                
             }
     
             for(int i = 0; i<100; i++){
