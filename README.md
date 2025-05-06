@@ -395,3 +395,6 @@ leetcode.com/subastral
 194. https://leetcode.com/problems/find-numbers-with-even-number-of-digits/submissions/1626231263/
 
 195. https://leetcode.com/problems/longest-common-subsequence/
+
+196. https://leetcode.com/problems/maximum-product-of-two-digits/submissions/1626944934/
+
