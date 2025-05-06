@@ -389,3 +389,6 @@ leetcode.com/subastral
 191. https://leetcode.com/problems/coin-change-ii/submissions/1625031601/
 
 192. https://leetcode.com/problems/unique-paths/submissions/1625554462/
+
+193. https://leetcode.com/problems/longest-common-subsequence/submissions/1626820376/
+
