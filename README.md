@@ -401,3 +401,6 @@ leetcode.com/subastral
 197. https://leetcode.com/problems/add-two-integers/submissions/1627797952/
 
 198. https://leetcode.com/problems/richest-customer-wealth/submissions/1627803140/
+
+199. https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/submissions/1628345507/
+
