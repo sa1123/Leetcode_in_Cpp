@@ -408,3 +408,5 @@ leetcode.com/subastral
 
 201. https://leetcode.com/problems/transform-array-by-parity/submissions/1629101744/
 
+202. https://leetcode.com/problems/goal-parser-interpretation/submissions/1629826685/
+
