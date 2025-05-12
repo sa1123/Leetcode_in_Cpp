@@ -412,3 +412,5 @@ leetcode.com/subastral
 
 203. https://leetcode.com/problems/number-of-employees-who-met-the-target/submissions/1631214267/
 
+204. https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/1631820602/
+
