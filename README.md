@@ -414,3 +414,4 @@ leetcode.com/subastral
 
 204. https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/1631820602/
 
+205. https://leetcode.com/problems/truncate-sentence/submissions/1632530981/
