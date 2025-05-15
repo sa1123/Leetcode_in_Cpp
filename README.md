@@ -417,3 +417,6 @@ leetcode.com/subastral
 205. https://leetcode.com/problems/truncate-sentence/submissions/1632530981/
 
 206. https://leetcode.com/problems/counting-words-with-a-given-prefix/submissions/1633542772/
+
+207. https://leetcode.com/problems/sort-the-people/submissions/1634381944/
+
