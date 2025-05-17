@@ -423,3 +423,6 @@ leetcode.com/subastral
 208. https://leetcode.com/problems/find-the-highest-altitude/submissions/1635284898/
 
 209. https://leetcode.com/problems/to-lower-case/submissions/1636105994
+
+210. https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/submissions/1636418509/
+
