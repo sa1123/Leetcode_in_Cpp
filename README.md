@@ -430,3 +430,5 @@ leetcode.com/subastral
 
 212. https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/submissions/1637958693/
 
+213. https://leetcode.com/problems/type-of-triangle/submissions/1637988569/
+
