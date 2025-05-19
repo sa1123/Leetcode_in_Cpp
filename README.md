@@ -427,3 +427,6 @@ leetcode.com/subastral
 210. https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/submissions/1636418509/
 
 211. https://leetcode.com/problems/find-first-palindromic-string-in-the-array/submissions/1637078211/
+
+212. https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/submissions/1637958693/
+
