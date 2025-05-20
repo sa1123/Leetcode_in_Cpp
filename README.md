@@ -432,3 +432,4 @@ leetcode.com/subastral
 
 213. https://leetcode.com/problems/type-of-triangle/submissions/1637988569/
 
+214. https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/1639348020/
