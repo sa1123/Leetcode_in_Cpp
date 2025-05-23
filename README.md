@@ -435,3 +435,5 @@ leetcode.com/subastral
 214. https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/submissions/1639348020/
 
 215. https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1641062647/
+
+216. https://leetcode.com/problems/first-missing-positive/submissions/1641856345/
