@@ -437,3 +437,5 @@ leetcode.com/subastral
 215. https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1641062647/
 
 216. https://leetcode.com/problems/first-missing-positive/submissions/1641856345/
+
+217. https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1644685075/
