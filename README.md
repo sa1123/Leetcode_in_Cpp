@@ -452,4 +452,6 @@ leetcode.com/subastral
 
 223. https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/submissions/1672917190/
 
-224. https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1686910652
+224. https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1686910652/
+
+225. https://leetcode.com/problems/delete-characters-to-make-fancy-string/submissions/1706401650/
