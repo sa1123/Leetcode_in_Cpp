@@ -455,3 +455,5 @@ leetcode.com/subastral
 224. https://leetcode.com/problems/find-lucky-integer-in-an-array/submissions/1686910652/
 
 225. https://leetcode.com/problems/delete-characters-to-make-fancy-string/submissions/1706401650/
+
+226. https://leetcode.com/problems/keep-multiplying-found-values-by-two/submissions/1834347865/
