@@ -459,3 +459,5 @@ leetcode.com/subastral
 226. https://leetcode.com/problems/keep-multiplying-found-values-by-two/submissions/1834347865/ https://leetcode.com/problems/keep-multiplying-found-values-by-two/submissions/1834390182
 
 227. https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/submissions/1849428028/
+
+228. https://leetcode.com/problems/count-square-sum-triples/submissions/1850415418/

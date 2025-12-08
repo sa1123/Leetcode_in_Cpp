@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/valid-perfect-square/submissions/963474432/
+// https://leetcode.com/problems/valid-perfect-square/submissions/963474432/
 
 class Solution {
 public:
