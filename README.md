@@ -461,3 +461,5 @@ leetcode.com/subastral
 227. https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/submissions/1849428028/
 
 228. https://leetcode.com/problems/count-square-sum-triples/submissions/1850415418/
+
+229. https://leetcode.com/problems/coupon-code-validator/submissions/1854337584/
