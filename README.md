@@ -463,3 +463,6 @@ leetcode.com/subastral
 228. https://leetcode.com/problems/count-square-sum-triples/submissions/1850415418/
 
 229. https://leetcode.com/problems/coupon-code-validator/submissions/1854337584/
+
+230. https://leetcode.com/problems/delete-columns-to-make-sorted/submissions/1860429451/
+
