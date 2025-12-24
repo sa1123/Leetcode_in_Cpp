@@ -466,3 +466,4 @@ leetcode.com/subastral
 
 230. https://leetcode.com/problems/delete-columns-to-make-sorted/submissions/1860429451/
 
+231. https://leetcode.com/problems/apple-redistribution-into-boxes/submissions/1864440785/
