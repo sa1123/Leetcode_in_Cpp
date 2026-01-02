@@ -467,3 +467,5 @@ leetcode.com/subastral
 230. https://leetcode.com/problems/delete-columns-to-make-sorted/submissions/1860429451/
 
 231. https://leetcode.com/problems/apple-redistribution-into-boxes/submissions/1864440785/
+
+232. https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/1872057403/
