@@ -471,3 +471,5 @@ leetcode.com/subastral
 232. https://leetcode.com/problems/n-repeated-element-in-size-2n-array/submissions/1872057403/
 
 233. https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/submissions/1895099560/
+
+234. https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/submissions/1904113380/
