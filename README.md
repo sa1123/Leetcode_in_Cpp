@@ -473,3 +473,5 @@ leetcode.com/subastral
 233. https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/submissions/1895099560/
 
 234. https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/submissions/1904113380/
+
+235. https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/submissions/1926046226/
