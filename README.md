@@ -475,3 +475,5 @@ leetcode.com/subastral
 234. https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/submissions/1904113380/
 
 235. https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/submissions/1926046226/
+
+236. https://leetcode.com/problems/binary-number-with-alternating-bits/submissions/1926080182/
