@@ -477,3 +477,5 @@ leetcode.com/subastral
 235. https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/submissions/1926046226/
 
 236. https://leetcode.com/problems/binary-number-with-alternating-bits/submissions/1926080182/
+
+237. https://leetcode.com/problems/binary-gap/submissions/1927364046/
