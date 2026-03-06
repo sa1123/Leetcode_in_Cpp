@@ -479,3 +479,5 @@ leetcode.com/subastral
 236. https://leetcode.com/problems/binary-number-with-alternating-bits/submissions/1926080182/
 
 237. https://leetcode.com/problems/binary-gap/submissions/1927364046/
+
+238. https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/submissions/1939875233/
