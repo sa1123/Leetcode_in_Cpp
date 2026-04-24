@@ -483,3 +483,5 @@ leetcode.com/subastral
 238. https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/submissions/1939875233/
 
 239. https://leetcode.com/problems/complement-of-base-10-integer/submissions/1944591541/
+
+240. https://leetcode.com/problems/furthest-point-from-origin/submissions/1986670810/
