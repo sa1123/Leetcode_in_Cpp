@@ -484,4 +484,8 @@ leetcode.com/subastral
 
 239. https://leetcode.com/problems/complement-of-base-10-integer/submissions/1944591541/
 
-240. https://leetcode.com/problems/furthest-point-from-origin/submissions/1986670810/
+240. https://leetcode.com/problems/mirror-distance-of-an-integer/submissions/1981565494/
+
+241. https://leetcode.com/problems/furthest-point-from-origin/submissions/1986670810/
+
+242. https://leetcode.com/problems/robot-return-to-origin/submissions/1986677407/
